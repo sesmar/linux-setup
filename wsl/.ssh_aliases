@@ -1,0 +1,1 @@
+alias arch-media="ssh -i ${HOME}/.ssh/arch-media_rsa sesmar@192.168.86.95"
